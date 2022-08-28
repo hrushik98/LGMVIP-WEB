@@ -1,0 +1,41 @@
+body {
+  font-family: sans-serif;
+  background-image: url(https://wallpapercave.com/wp/wp9241478.jpg);
+}
+#newtask {
+  margin-left: 40%;
+  margin-top: 20%;
+}
+
+#newtask input {
+  border: 2px solid white;
+  border-radius: 5px;
+  padding: 10px;
+  padding-right: 5px;
+  
+}
+#newtask button {
+  
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid white;
+
+  background-color: blueviolet;
+}
+#text1 {
+  color: white;
+  font-weight: 600;
+}
+#tasks {
+  margin-top: 2rem;
+  background-color: white;
+  width: 14rem;
+  height: 6rem;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 40%;
+}
+.delete{
+  margin-left: 50%;
+  border: 2px solid white;
+}
